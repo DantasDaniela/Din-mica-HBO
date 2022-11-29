@@ -1,0 +1,111 @@
+
+
+/*importação de fontes*/
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+
+:root{
+    --fonte-padrão: 'inter';
+}
+
+body{
+    background-color: #000000
+    
+}
+
+
+.allDivs{
+    
+    font-family:"inter";
+    text-align: center;
+    background-color: ;
+    
+}
+
+
+
+#div1{
+    
+    
+    color: #ffffff;
+    
+    
+}
+
+#div2{
+    color: #ffffff;
+   
+
+} /*Menu e assintor*/
+#div1 ul{
+    list-style: none;
+    position: relative;
+    height: 30px;
+    left: 500px;
+    font-family: 'Inter';
+    font-size: 14px;
+    display: flex;
+    color: #FFFFFF;
+    
+}
+
+#div3{
+    color: #ffffff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+#div3 input{
+    
+    width: 300px;
+    height: 30px;
+    left: 200px;
+    top: 100px;
+    background: #7F7F7F;
+    border-radius: 25px;
+    border-style: none;
+    
+}
+
+#div4{
+    
+    color: #ffffff;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: var(--fonte-padrão);
+    
+
+}
+
+#div4 button{
+    justify-content: center;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    left: 649px;
+    top: 650px;
+    width: 100px;
+    height: 30px;
+    color: #ffffff;
+    background: linear-gradient(90deg, #A18CD1 0%, #FBC2EB 100%);
+
+}
+
+#button2{
+    
+    background: linear-gradient(90deg, #A18CD1 0%, #FBC2EB 100%);
+    border: 1px solid #000000;
+    border-radius: 20px;
+    margin-top: 0px;
+    width: 250px;
+    height: 30px;
+    color: #ffffff;
+    margin-bottom: 50px;
+    margin-left:40%;
+    margin-right: 30%;
+}
+
+
+    
+    
+
